@@ -1,0 +1,5 @@
+main.md
+test.md
+proptest-regressions/
+
+*.lock
